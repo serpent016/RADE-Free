@@ -1,0 +1,9 @@
+{
+  "smoothing": 0.4,
+  "clampMin": 0.5,
+  "clampMax": 2.0,
+  "links": {
+    "reaction": { "speed": 0.05 },
+    "accuracy": { "complexity": -0.1 }
+  }
+}
