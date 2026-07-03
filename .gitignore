@@ -1,0 +1,13 @@
+/build/
+/bin/
+/obj/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+.DS_Store
